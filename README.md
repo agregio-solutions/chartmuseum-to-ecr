@@ -54,18 +54,18 @@ The script takes two arguments:
 
 ### 1. Clone the Script
 
-Copy the script into a file called `migrate_chart_versions.sh`.
+Copy the script into a file called `migrate_chart.sh`.
 
 ### 2. Make the Script Executable
 
 ```bash
-chmod +x migrate_chart_versions.sh
+chmod +x migrate_chart.sh
 ```
 
 ### 3. Run the Script
 
 ```bash
-./migrate_chart_versions.sh <chart_name> [version_limit]
+./migrate_chart.sh <chart_name> [version_limit]
 ```
 
 ### 4. Expected Output
