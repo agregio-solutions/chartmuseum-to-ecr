@@ -2,7 +2,7 @@
 
 ## Overview
 
-This script automates the process of migrating Helm charts from a local ChartMuseum to an Amazon Elastic Container Registry (ECR) via a a non destructive copy. It supports migrating multiple versions of a specified chart and ensures that existing versions in ECR are not uploaded again.
+This script automates the process of migrating Helm charts from a local ChartMuseum to an Amazon Elastic Container Registry (ECR) via a non destructive copy. It supports migrating multiple versions of a specified chart and ensures that existing versions in ECR are not uploaded again.
 
 ### Features
 
